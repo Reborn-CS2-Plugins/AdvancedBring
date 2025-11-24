@@ -1,0 +1,9 @@
+{
+  "Prefix": "{red}[AdvancedBring]{white}",
+  "CommandDescription": "Aim noktasına teleport komutu. Göz hizasındaki konuma ışınlamanızı sağlar.",
+  "NoPermission": "Bu komutu kullanmak için yeterli izniniz {darkred}yok{white}.",
+  "NoTarget": "Geçerli hedef {darkred}bulunamadı{white}.",
+  "TraceFailed": "Hedef tespiti sırasında bir hata oluştu.",
+  "TeleportToAimSuccessXPlayers": "{gold}{0}{white} tarafından {blue}{1}{white} oyuncu ışınlandı.",
+  "TeleportToAimSuccess": "{gold}{0}{white} tarafından {blue}{1}{white} adlı oyuncu ışınlandı."
+}
